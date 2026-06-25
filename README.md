@@ -9,7 +9,7 @@ The assignment focuses on understanding and implementing control flow statements
 * Conditional statements (if, elif, else)
 * Loops (for, while)
 * Number-based logic problems
-* Pattern and mathematical problem solving
+* Pattern and mathematical problem solving.
 Topics Covered
 * Positive, Negative, or Zero check
 * Odd and Even number check
