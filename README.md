@@ -10,7 +10,9 @@ The assignment focuses on understanding and implementing control flow statements
 * Loops (for, while)
 * Number-based logic problems
 * Pattern and mathematical problem solving.
-Topics Covered
+
+
+Topics Covered:
 * Positive, Negative, or Zero check
 * Odd and Even number check
 * Reverse range
