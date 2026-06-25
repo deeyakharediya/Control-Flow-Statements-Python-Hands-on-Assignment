@@ -25,11 +25,3 @@ Topics Covered:
 * Palindrome number check
 * Sum of digits
 
-Learning Outcomes
-
-Through this assignment, I practiced:
-
-Writing decision-making programs
-Using loops efficiently
-Working with number manipulation logic
-Improving problem-solving skills in Python
